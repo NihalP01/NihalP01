@@ -2,5 +2,6 @@
 <br><br>
 [![Awesome Kotlin Badge](https://kotlin.link/awesome-kotlin.svg)](https://github.com/KotlinBy/awesome-kotlin)
 <br><br>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NihalP01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
